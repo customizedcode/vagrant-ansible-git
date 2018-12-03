@@ -3,7 +3,6 @@ Here is a template for organizing your playbooks and the resources you may use w
 Read the readme.txt in each directory to get an idea of how these may be used.
 
 In this root directory, there are the following directories and files:
-.an - temp directory
 files - files for upload
 inventory - host files for various machines ansible may connect to.
 playbooks - where your playbooks live.
